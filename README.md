@@ -12,7 +12,7 @@ pipenv install -r requirements.txt
 ### Iniciar el proyecto desde el directorio:
 
 ```bash
-cd webempresa
+cd webasdrome
 pipenv run python manage.py runserver
 ```
 
