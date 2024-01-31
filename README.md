@@ -12,7 +12,7 @@ pipenv install -r requirements.txt
 ### Iniciar el proyecto desde el directorio:
 
 ```bash
-cd webempresa
+cd webasdrome
 pipenv run python manage.py runserver
 ```
 
@@ -21,3 +21,6 @@ pipenv run python manage.py runserver
 ```bash
 pipenv run python manage.py createsuperuser
 ```
+# Crear una cuenta en mailtrap.io
+Para hacer pruebas de que el formulario de contacto funciona es necesario crear una cuanta en mailtrap.io o algun otro host 
+https://mailtrap.io/
